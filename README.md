@@ -1,5 +1,5 @@
 # SPLM-Lexicon
-The SPLM is a ranked opinion lexicon. We obtained the weights assigned to each word-tag pair by making use of the equations defined on the following paper which describe all details about this lexicon.
+SPLM is a ranked opinion lexicon. We obtained the weights assigned to each word-tag pair by making use of the equations defined on the following paper which describe all details about this lexicon.
 
 FORMAT: the file is tab delimited with: 
 
